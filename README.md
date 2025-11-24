@@ -103,14 +103,6 @@ cd backend && pip install -r requirements.txt && python -m uvicorn app.main:app 
 cd frontend && npm install && npm run dev
 ```
 
-## 📸 Screenshots
-
-*(Add screenshots of your application here)*
-- Dashboard with job recommendations
-- Job search interface
-- AI cover letter generation
-- Application tracking
-
 ## 🏗️ Project Structure
 
 ```
@@ -189,10 +181,6 @@ We welcome contributions! Please feel free to submit issues and enhancement requ
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Yashwanth**  
@@ -223,11 +211,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. **Replace everything with the new content**
 6. **Scroll down → Click "Commit changes"**
 
-## 📸 **TO ADD SCREENSHOTS LATER:**
-
-1. Take screenshots of your running app
-2. Upload them to your GitHub repo in a `/screenshots` folder
-3. Update the README with actual image links
 
 ## 🚀 **YOUR REPO WILL LOOK PROFESSIONAL WITH:**
 
@@ -236,5 +219,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ✅ **Feature explanations**  
 ✅ **Technical documentation**  
 ✅ **Professional structure**
-
-**Want me to help you add anything specific or customize it further?**
